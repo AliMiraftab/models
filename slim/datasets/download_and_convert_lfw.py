@@ -38,7 +38,7 @@ import tensorflow as tf
 from datasets import dataset_utils
 
 # The URL where the CIFAR data can be downloaded.
-_DATA_URL = 'https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
+_DATA_URL = 'http://vis-www.cs.umass.edu/lfw/lfw.tgz'
 
 # The number of training files.
 _NUM_TRAIN_FILES = 5

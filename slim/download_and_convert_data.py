@@ -28,7 +28,18 @@ $ python download_and_convert_data.py \
 $ python download_and_convert_data.py \
     --dataset_name=flowers \
     --dataset_dir=/tmp/flowers
+        
 ```
+    It's under the progress
+    ***********
+    *** LFW ***
+    ***********
+    
+$ python download_and_convert_data.py \
+    --dataset_name=lfw \
+    --dataset_dir=/tmp/lfw
+
+
 """
 from __future__ import absolute_import
 from __future__ import division
